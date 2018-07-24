@@ -1,0 +1,30 @@
+  #button1 {
+      background-color: transparent;
+      background-size: contain;
+      background-position: center;
+      border: 0;
+      color: red;
+      padding: 1px 3px;
+      align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 80px;
+  }
+
+html {
+  background-color: #4169E1;
+
+}
+
+h1 {
+  font-family: "Merienda";
+  text-align: center;
+  text-shadow: 0 0 5px #FF0000;
+  font-size: 60px;
+}
+
+
+body {
+  font-family: "Raleway";
+  font-size: 15px;
+}
