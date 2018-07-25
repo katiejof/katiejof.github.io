@@ -3,7 +3,7 @@
 }
 */
 function myFunction1() {
-  document.getElementById("button1").innerHTML= "<img src='Volleyball.jpg'>";
+  document.getElementById("button1").innerHTML= "<img src='Volleyball.jpg'/>";
   // document.getElementById("button1").style.background = transparent;
 //document.getElementById("button1").style.visibility= hidden;
 //document.getElementById("button1").style.display= none;
